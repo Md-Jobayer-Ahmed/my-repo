@@ -1,0 +1,102 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.font-color {
+    color: orange
+}
+
+.section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 50px;
+}
+
+.half-width img {
+    width: 70%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(Bisque, gray);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+.top-margin {
+    margin-top: 200px;
+}
+
+.png {
+    margin-top: 100;
+}
+
+#image {
+    margin-left: 80px;
+}
+
+.half {
+    padding-left: 50px;
+    width: 60%;
+}
+
+.dream {
+    color: orange;
+}
+
+.link-button-b {
+    background-image: linear-gradient(gray, orange);
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: 700;
+}
+
+.content {
+    display: flex;
+}
+
+.hq {
+    margin-top: 250px;
+}
+
+.kala {
+    color: orange;
+}
+
+.half-width-org {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 40%;
+    height: 80%;
+    border-radius: 20px;
+}
+
+#senior {
+    border-left: 7px solid tomato;
+}
+
+#junior {
+    border-left: 7px solid blue;
+}
+
+#gd {
+    margin-bottom: 200px;
+}
+
+footer p {
+    text-align: center;
+}
